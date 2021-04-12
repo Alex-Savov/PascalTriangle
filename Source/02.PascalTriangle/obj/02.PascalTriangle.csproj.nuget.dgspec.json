@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AlexS\\OneDrive\\Desktop\\softuni\\programming\\Programming fundamentals\\07.Arrays\\MoreExercise\\02.PascalTriangle\\02.PascalTriangle.csproj": {}
+    "C:\\Users\\AlexS\\OneDrive\\Documents\\GitHub\\PascalTriangle\\Source\\02.PascalTriangle\\02.PascalTriangle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AlexS\\OneDrive\\Desktop\\softuni\\programming\\Programming fundamentals\\07.Arrays\\MoreExercise\\02.PascalTriangle\\02.PascalTriangle.csproj": {
+    "C:\\Users\\AlexS\\OneDrive\\Documents\\GitHub\\PascalTriangle\\Source\\02.PascalTriangle\\02.PascalTriangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AlexS\\OneDrive\\Desktop\\softuni\\programming\\Programming fundamentals\\07.Arrays\\MoreExercise\\02.PascalTriangle\\02.PascalTriangle.csproj",
+        "projectUniqueName": "C:\\Users\\AlexS\\OneDrive\\Documents\\GitHub\\PascalTriangle\\Source\\02.PascalTriangle\\02.PascalTriangle.csproj",
         "projectName": "02.PascalTriangle",
-        "projectPath": "C:\\Users\\AlexS\\OneDrive\\Desktop\\softuni\\programming\\Programming fundamentals\\07.Arrays\\MoreExercise\\02.PascalTriangle\\02.PascalTriangle.csproj",
+        "projectPath": "C:\\Users\\AlexS\\OneDrive\\Documents\\GitHub\\PascalTriangle\\Source\\02.PascalTriangle\\02.PascalTriangle.csproj",
         "packagesPath": "C:\\Users\\AlexS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AlexS\\OneDrive\\Desktop\\softuni\\programming\\Programming fundamentals\\07.Arrays\\MoreExercise\\02.PascalTriangle\\obj\\",
+        "outputPath": "C:\\Users\\AlexS\\OneDrive\\Documents\\GitHub\\PascalTriangle\\Source\\02.PascalTriangle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
